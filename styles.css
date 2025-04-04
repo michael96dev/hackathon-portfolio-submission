@@ -222,3 +222,8 @@ textarea{
 footer h2{
     font-size: 9px;
 }
+ .contacts-css button{
+    color: #ddd;
+    background-color: rgb(242, 143, 143);
+    justify-content: end;
+}
